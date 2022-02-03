@@ -95,7 +95,6 @@ nav a {
 .container {
     margin: auto;
     width: 75%;
-    height: 1000px;
 }
 
 .container-small {
@@ -138,6 +137,10 @@ nav a {
 
 /* /jumbo */
 
+.section1 {
+    margin-bottom: 100px;
+}
+
 .abbonamentiTitle {
     font-size: 35px;
     margin-top: 20px;
@@ -165,7 +168,7 @@ nav a {
     height: 1100px;
 }
 
-.mid-col {
+.mid {
     margin: 0% 5%;
 }
 
@@ -257,7 +260,7 @@ nav a {
     height: auto;
     border: 1px solid grey;
     margin-top: 100px;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 
 .top-contact {
@@ -295,4 +298,95 @@ nav a {
     text-decoration: none;
     padding: 7px 60px;
     font-size: 15px;
+}
+
+/* Fine colonne e enterprise */
+
+/* Inizio Partner */
+
+.partner {
+    width: 100%;
+    height: 500px;
+}
+
+.partner-img {
+    width: 50%;
+}
+
+.partner-img img {
+    width: 100%;
+}
+
+.partner-text {
+    width: 45%;
+    padding: 30px 10px;
+}
+
+.partner-text h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.partner-text p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.partner-text a {
+    text-decoration: none;
+    color: black;
+}
+
+.partner-btn {
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+
+/* /Partner */
+
+/* Inizio Business */
+
+
+.section2 h1 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 200px;
+}
+
+.row {
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.business {
+    height: auto;
+    width: 30%;
+    padding: 50px;
+}
+
+.topimg {
+    width: 100%;
+    height: 50%;
+}
+
+.topimg img {
+    width: 100%;
+}
+
+.toptxt {
+    width: 100%;
+    height: 50%;
+}
+
+.toptxt h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.toptext p {
+    font-size: 20px;
+    font-weight: 700;
 }
