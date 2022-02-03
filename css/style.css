@@ -173,3 +173,62 @@ nav a {
     width: 15px;
     vertical-align: middle;
 }
+
+.container-small {
+    width: 90%;
+    margin: 40px auto;
+
+}
+
+.container-small h3 {
+    margin: 10px 0px;
+}
+
+.container-small p {
+    margin-bottom: 50px;
+}
+
+.container-small img {
+    width: 12px;
+    vertical-align: middle;
+}
+
+.dettagli {
+    margin-bottom: 30px;
+}
+
+.icon {
+    width: 5%;
+    display: inline-block;
+}
+
+.icon-det {
+    width: 95%;
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.col-btn {
+    text-align: center;
+}
+
+.btn-colonne {
+    width: 100%;
+    padding: 10px 90px;
+    margin-bottom: 30px;
+}
+
+.col-btn a {
+    text-decoration: none;
+}
+
+.buy {
+    margin: 40px 0px;
+}
+
+.container-small hr {
+    width: 60px;
+    color: grey;
+    margin-bottom: 40px;
+}
