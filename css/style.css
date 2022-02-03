@@ -257,6 +257,7 @@ nav a {
     height: auto;
     border: 1px solid grey;
     margin-top: 100px;
+    margin-bottom: 200px;
 }
 
 .top-contact {
@@ -276,9 +277,22 @@ nav a {
 .bot-contact {
     width: 100%;
     height: auto;
-    padding: 30px;
+    padding: 25px;
+    position: relative;
 }
 
 .bot-contact * {
     margin-bottom: 20px;
+}
+
+.btn-contact {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+.btn-contact a {
+    text-decoration: none;
+    padding: 7px 60px;
+    font-size: 15px;
 }
