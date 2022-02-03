@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Open Sans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* utilities */
+
+.floatL {
+    float: left;
+}
+
+.floatR {
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* /utilities */
+
+/* navigatore */
+
+header {
+    height: 100px;
+}
+
+nav {
+    height: 100%;
+    line-height: 100px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo, .start {
+    width: 10%;
+    text-align: center;
+}
+
+.leftLi, .rightLi {
+    width: 25%;
+    text-align: center;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+}
