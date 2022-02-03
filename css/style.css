@@ -398,10 +398,6 @@ nav a {
 
 /* Teams */
 
-.section3 {
-    margin-bottom: 30px;
-}
-
 .section3 h1 {
     font-size: 50px;
     margin-bottom: 40px;
@@ -409,4 +405,61 @@ nav a {
 
 .smaller {
     width: 50%;
+    margin-bottom: 80px;
+}
+
+
+.master-container {
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.sideLogo {
+    width: 30%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.midLogo {
+    width: 40%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.teamsLogo {
+    height: 50%;
+    width: 50%;
+    border: 1px solid black;
+    position: relative;
+}
+
+.teamsLogo img {
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    filter: invert(1);
+}
+
+.designit {
+    background-color: #a2d39b;
+    border: 10px solid #d0e9cd;
+}
+
+.asu {
+    background-color: #61082b;
+}
+
+.florida {
+    background-color: #0093ce;
+}
+
+.topps {
+    background-color: #ff1c1c;
+}
+
+.hearst {
+    background-color: #b4d0e7;
 }
