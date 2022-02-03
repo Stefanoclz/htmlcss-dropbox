@@ -27,6 +27,7 @@
 
 header {
     height: 100px;
+    position: fixed;
 }
 
 nav {
@@ -55,6 +56,7 @@ nav a {
 }
 
 .btn {
-    background-color: blue;
+    background-color: #0061ff;
     color: white;
+    padding: 5px 10px;
 }
