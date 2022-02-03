@@ -155,7 +155,7 @@ nav a {
 
 .col-prof {
     width: 30%;
-    height: 800px;
+    
     border: 1px solid grey;
 }
 
@@ -231,4 +231,19 @@ nav a {
     width: 60px;
     color: grey;
     margin-bottom: 40px;
+}
+
+
+.container-small li {
+    list-style: none;
+    margin: 20px 0px;
+}
+
+.container-small li::before {
+    content: "\2714";
+    color: blue;
+}
+
+.container-small ul {
+    margin-bottom: 200px;
 }
