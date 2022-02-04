@@ -576,3 +576,38 @@ main {
 .FAQdrop img {
     width: 20px;
 }
+
+/* / Fine FAQ */
+
+/* Inizio Footer */
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: white;
+}
+
+.footerFloater {
+    width: auto;
+    margin: auto;
+}
+
+.footerLi {
+    margin-right: 5%;
+    width: 15%;
+}
+
+.footerLi h2 {
+    margin-bottom: 30px;
+}
+
+.footerLi li {
+    list-style: none;
+    margin: 15px 0px;
+}
+
+.footerLi a {
+    text-decoration: none;
+    color: white;
+}
