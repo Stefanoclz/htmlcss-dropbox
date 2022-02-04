@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
     font-family: Open Sans, Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: smooth;
 }
 
 /* utilities */
