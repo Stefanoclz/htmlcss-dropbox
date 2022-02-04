@@ -559,9 +559,7 @@ main {
     margin-top: 20px;
 }
 
-.question:hover p {
-    display: block;
-}
+
 
 .FAQtxt {
     width: 60%;
@@ -591,6 +589,7 @@ footer {
 .footerFloater {
     width: auto;
     margin: auto;
+    font-weight: 500;
 }
 
 .footerLi {
@@ -624,4 +623,18 @@ footer {
     filter: invert(0.5);
     width: 15px;
     vertical-align: middle;
+}
+
+/* :HOVER */
+
+.question:hover p {
+    display: block;
+}
+
+nav li:hover {
+    border-bottom: 1px solid black;
+}
+
+.btn:hover {
+    opacity: 0.7;
 }
