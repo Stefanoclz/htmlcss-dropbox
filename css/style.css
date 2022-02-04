@@ -611,3 +611,17 @@ footer {
     text-decoration: none;
     color: white;
 }
+
+.language {
+    width: 8%;
+    margin-top: 80px;
+    padding: 50px 0px;
+    border-top: 1px solid grey;
+    color: grey;
+}
+
+.language img {
+    filter: invert(0.5);
+    width: 15px;
+    vertical-align: middle;
+}
