@@ -67,7 +67,6 @@ nav a {
 }
 
 .leftLi, .rightLi {
-    width: 25%;
     text-align: center;
 }
 
@@ -127,7 +126,6 @@ main {
 
 .jumboL {
     width: 30%;
-    height: auto;
     font-size: 20px;
     margin-right: 100px;
 }
