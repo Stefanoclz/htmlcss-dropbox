@@ -398,7 +398,7 @@ main {
 
 /* Teams */
 
-.section3 h1 {
+.smaller h1 {
     font-size: 50px;
     margin-bottom: 40px;
 }
@@ -501,6 +501,10 @@ main {
     width: 50%;
 }
 
+.bot-masterL h1 {
+    font-size: 50px;
+}
+
 .bot-masterR {
     width: 30%;
     border: none;
@@ -543,16 +547,10 @@ main {
     margin-top: 20px;
 }
 
-
-
-.FAQtxt {
-    width: 60%;
-}
-
 .FAQdrop {
-    width: 10%;
     vertical-align: middle;
     text-align: center;
+    padding-right: 10px;
 }
 
 .FAQdrop img {
@@ -570,7 +568,6 @@ footer {
 }
 
 .footerFloater {
-    width: auto;
     margin: auto;
     font-weight: 500;
 }
