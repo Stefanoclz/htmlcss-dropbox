@@ -46,13 +46,14 @@ header {
 }
 
 nav {
-    padding: 20px 0px;
+    padding-top: 20px;
     background-color: white;
 }
 
 nav li {
     display: inline-block;
     margin-right: 30px;
+    padding-bottom: 20px;
 }
 
 nav a {
@@ -569,7 +570,6 @@ main {
 
 footer {
     width: 100%;
-    height: auto;
     background-color: black;
     color: white;
 }
