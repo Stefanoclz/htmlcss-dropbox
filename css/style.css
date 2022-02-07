@@ -416,13 +416,13 @@ main {
 
 .sideLogo {
     width: 30%;
-    height: 100%;
 }
 
 .midLogo {
     width: 40%;
     background-color: #f5f5f5; 
     padding: 50px;
+    height: 54vh;
 }
 
 .midLogo img {
@@ -437,15 +437,16 @@ main {
 }
 
 .teamsLogo {
-    height: 40vh;
+    height: 27vh;
     width: 50%;
-    line-height: 40vh;
+    line-height: 27vh;
     text-align: center;
 }
 
 .teamsLogo img {
-    width: 50%;
+    width: 60%;
     filter: invert(1);
+    transform: translate(0%, 50%);
 }
 
 .midLogo p {
