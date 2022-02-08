@@ -125,7 +125,11 @@ main {
 .jumboL {
     width: 30%;
     font-size: 20px;
-    margin-right: 100px;
+    margin-right: 10%;
+}
+
+.jumboR {
+    width: 60%;
 }
 
 .jumboL p {
