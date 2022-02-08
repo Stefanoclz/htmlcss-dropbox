@@ -52,7 +52,7 @@ nav {
 
 nav li {
     display: inline-block;
-    margin-right: 30px;
+    margin-right: 40px;
     padding-bottom: 20px;
 }
 
@@ -79,7 +79,7 @@ nav a {
 /* /navigatore */
 
 main {
-    margin-top: 62px;
+    margin-top: 3%
 }
 
 
@@ -90,13 +90,14 @@ main {
     width: 100%;
     background-color: #b4d0e7;
     position: relative;
-    margin-bottom: 200px;
+    margin-bottom: 10%;
+    padding-top: 5%;
 }
 
 .container-large {
     margin: auto;
     width: 90%;
-    padding: 20px;
+    padding: 1%;
 }
 
 .container {
@@ -106,7 +107,7 @@ main {
 
 .container-small {
     width: 90%;
-    margin: 40px auto;
+    margin: 1% auto;
 
 }
 
@@ -149,7 +150,7 @@ main {
 /* /jumbo */
 
 .section1 {
-    margin-bottom: 100px;
+    margin-bottom: 5%;
 }
 
 .abbonamentiTitle {
@@ -170,7 +171,7 @@ main {
 .col-abb {
     width: 100%;
     height: auto;
-    margin-top: 40px;
+    margin-top: 3%;
 }
 
 .col-plans {
@@ -268,8 +269,8 @@ main {
 
 .contactUS {
     border: 1px solid grey;
-    margin-top: 100px;
-    margin-bottom: 150px;
+    margin-top: 5%;
+    margin-bottom: 10%;
 }
 
 .top-contact {
